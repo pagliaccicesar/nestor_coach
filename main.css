@@ -194,6 +194,12 @@
         max-inline-size: var(--size-content-1);
         line-height: var(--font-lineheight-0);
       }
+      .content h5 {
+        color: rgb(5, 128, 244);
+        margin-top: 20px;
+        margin-left: 35px;
+        margin-right: 0; 
+      }
     }
   }
 
