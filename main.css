@@ -226,11 +226,12 @@
         /*color: rgb(5, 128, 244);*/
         color: black;
         font-size: 100%;
+        text-align: center;
         text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
         -webkit-text-fill-color: white;
         -webkit-text-stroke: 0.2px black;
         margin-top: 20px;
-        margin-left: 35px;
+        margin-left: 30px;
         margin-right: 0; 
       }
     }
