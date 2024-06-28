@@ -171,11 +171,12 @@
 
 
 
-      
-      color: rgb(24, 1, 91);      
+      color: aqua;
+      /*color: rgb(24, 1, 91);    */  
       
       text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
-        -webkit-text-fill-color: rgb(24, 1, 91);
+        /*-webkit-text-fill-color: rgb(24, 1, 91);*/
+        -webkit-text-fill-color: aqua;
         -webkit-text-stroke: 0.5px white;
         /*-webkit-text-stroke: 1px rgb(5, 128, 244);*/
       font-size: 310%;
@@ -226,7 +227,7 @@
         color: black;
         text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
         -webkit-text-fill-color: white;
-        -webkit-text-stroke: 0.5px black;
+        -webkit-text-stroke: 0.2px black;
         margin-top: 20px;
         margin-left: 35px;
         margin-right: 0; 
