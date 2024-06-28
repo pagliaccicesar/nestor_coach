@@ -225,7 +225,7 @@
 
         /*color: rgb(5, 128, 244);*/
         color: black;
-        font-size: 120%;
+        font-size: 100%;
         text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
         -webkit-text-fill-color: white;
         -webkit-text-stroke: 0.2px black;
